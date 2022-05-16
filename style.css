@@ -45,7 +45,7 @@ img {
 .contact {
   margin: 50px 30px;
 }
-.contact p {
+.contact a {
   color: #fff;
   font-size: 14px;
   line-height: 0.5;
@@ -60,7 +60,7 @@ ul {
   list-style-position: inside;
   margin-left: -40px
 }
-p span {
+.contact span {
   color: #fff;
   font-family: Bold;
   font-size: 14px;
